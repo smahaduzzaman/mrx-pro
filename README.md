@@ -1,7 +1,7 @@
 # Assignment: Module-18
 by: S M Ahaduzzaman
 
-GitHub Link: 
+GitHub Link: https://github.com/smahaduzzaman/mrx-pro
 
 ## Create a beginner's Laravel Project as Mr. X
 
